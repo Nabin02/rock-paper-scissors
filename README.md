@@ -9,3 +9,6 @@ I have added the following files to my project. I do not plan to use all of the 
     1. index.html
     2. style.css
     3. style.js
+
+Commit #2:
+Set up the html file with all of the buttons.
